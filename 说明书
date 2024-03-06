@@ -1,0 +1,20 @@
+功能：
+    用户：
+        登录
+        注册
+        修改昵称
+        修改头像
+    服务：
+        记录
+        修改
+        删除
+        查找
+字段：
+    用户：
+        ID       int    用户id
+        Username string 用户名
+        Account  string  账号
+        Password string 密码
+        PhoneNumber int 手机号
+        Sex      string 性别
+        Signature   string  签名
